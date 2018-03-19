@@ -2,7 +2,7 @@
 
 * Студент:  Ярослав Корнийчук.
 * Наставник: Дима Тытарь.
-* [Аккаун в hml](https://htmlacademy.ru/profile/id700405)
+* [Суперстраница](https://htmlacademy.ru/profile/id700405)
 
 ---
 ### Памятка
