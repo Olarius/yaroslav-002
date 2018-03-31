@@ -1,0 +1,13 @@
+.element {
+	border: 3px dashed #e2027d;
+	margin: 3px;
+	width: 100px;
+}
+
+.container {
+	border: 3px dashed #ff0000;
+  	display: flex;
+	/*flex-direction: column;*/
+	/*justify-content: center;*/
+	width: 400px;
+}

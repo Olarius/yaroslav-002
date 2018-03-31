@@ -1,0 +1,29 @@
+@font-face {
+	font-family: General-font;
+	src: url(); /*скачанные шрифты*/
+}
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+.normal {
+	font-weight: 400;
+	border: 1px dashed green;
+	padding: 6px;
+	font-size: 18px;
+	text-align: center;
+	margin: 0 0 40px 0; 
+	text-decoration: line-through;
+	font-style: italic;
+	line-height: 35px;
+}
+
+.bold {
+	font-weight: 700;
+	border: 3px dashed green;
+	padding: 6px;
+	text-decoration: underline;
+	font-size: 18px;
+	
+
+}
